@@ -1,0 +1,37 @@
+
+.button {
+  font-size: 1.6rem;
+  font-weight: bold;
+  color: var(--color);
+  background-color: var(--bg-button);
+  
+  border: none;
+  border-radius: 8px;
+  box-shadow:2px 2px 3px var(--shadow);
+  outline: none;
+  cursor:pointer;
+
+  margin: 2px;
+  transition: all 20ms;
+}
+
+.button:active {
+  background-color: var(--bg-secundary);
+}
+
+.button.col2 {
+  grid-column: span 2;
+}
+
+.button.col3 {
+  grid-column: span 3;
+}
+
+.button.operation {
+  background-color: var(--bg-secundary);
+  color: var(--bg-primary);
+}
+
+.button.operation:active {
+  background-color: var(--bg-button);
+}

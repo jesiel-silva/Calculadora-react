@@ -1,0 +1,26 @@
+@font-face {
+  font-family: RobotoMono;
+  src: url('./fonts/RobotoMono-Light.ttf');
+}
+
+:root {
+  --bg-primary: #333333;
+  --bg-secundary: #afafaf;
+  --bg-button: #4d4d4d;
+  --shadow: #000;
+  --color: #d7d7d7;
+
+  --border-button: 2px solid var(--bg-primary);
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'RobotoMono', Arial, Helvetica, sans-serif;
+}
+
+body {
+  font-size: 62.5%;
+  background: linear-gradient(to right, rgb(20, 20, 20), rgb(37, 37, 37));
+} 
