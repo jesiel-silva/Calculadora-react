@@ -4,6 +4,9 @@
 </p>
 <img src="https://github.com/jesiel-silva/Calculadora-react/assets/90517279/4bcc7beb-eec7-45be-8885-53f21b24bb1d"/>
 
+<h2>Link para testar o projeto</h2>
+<a href='https://calculadora-react-pdwd6biz6-jesiel-silva.vercel.app/'>Calculadora React</a>
+
 <h2>Tecnologias usada</h2>
 <img src="https://github.com/jesiel-silva/Calculadora-react/assets/90517279/c79c3860-34a5-44a9-8d31-d66a5110c65f" width= 60 height=60/>
 <img src="https://github.com/jesiel-silva/Calculadora-react/assets/90517279/642328f2-eada-46d1-9ae9-a485196a4e11" width= 60 height=60 />
