@@ -1,3 +1,18 @@
+<h1>Calculadora em React JS</h1>
+<p>
+  Meu primeiro projeto feito em react js, utilizando conhecimentos de HTML, CSS, JS, e todo o front-end feito com o react.
+</p>
+<img src="https://github.com/jesiel-silva/Calculadora-react/assets/90517279/4bcc7beb-eec7-45be-8885-53f21b24bb1d"/>
+
+<h2>Tecnologias usada</h2>
+<img src="https://github.com/jesiel-silva/Calculadora-react/assets/90517279/c79c3860-34a5-44a9-8d31-d66a5110c65f" width= 60 height=60/>
+<img src="https://github.com/jesiel-silva/Calculadora-react/assets/90517279/642328f2-eada-46d1-9ae9-a485196a4e11" width= 60 height=60 />
+<img src="https://github.com/jesiel-silva/Calculadora-react/assets/90517279/ca11b009-55b7-4051-8f62-9468e8dd8118" width= 60 height=60/>
+<img src="https://github.com/jesiel-silva/Calculadora-react/assets/90517279/8b7169cd-57c9-444d-a371-8557dd18ffe4" width= 60 height=60/>
+<br><br>
+****************************************************************************************************
+<br><br>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
